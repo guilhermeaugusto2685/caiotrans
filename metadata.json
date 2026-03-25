@@ -1,0 +1,5 @@
+{
+  "name": "MinérioRPA - Transport Automation",
+  "description": "Ferramenta de RPA para extração de dados de PDFs e fotos de transportadoras de minério.",
+  "requestFramePermissions": ["camera"]
+}
